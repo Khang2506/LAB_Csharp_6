@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SPRING2025\\C#6\\bailab\\Lab3_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95F43E17-1C62-4E69-8221-896A16131A45}|Lab3_1\\Lab3_1.csproj|d:\\spring2025\\c#6\\bailab\\lab3_1\\lab3_1\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95F43E17-1C62-4E69-8221-896A16131A45}|Lab3_1\\Lab3_1.csproj|solutionrelative:lab3_1\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F43E17-1C62-4E69-8221-896A16131A45}|Lab3_1\\Lab3_1.csproj|d:\\spring2025\\c#6\\bailab\\lab3_1\\lab3_1\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95F43E17-1C62-4E69-8221-896A16131A45}|Lab3_1\\Lab3_1.csproj|solutionrelative:lab3_1\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F43E17-1C62-4E69-8221-896A16131A45}|Lab3_1\\Lab3_1.csproj|d:\\spring2025\\c#6\\bailab\\lab3_1\\lab3_1\\components\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95F43E17-1C62-4E69-8221-896A16131A45}|Lab3_1\\Lab3_1.csproj|solutionrelative:lab3_1\\components\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F43E17-1C62-4E69-8221-896A16131A45}|Lab3_1\\Lab3_1.csproj|d:\\spring2025\\c#6\\bailab\\lab3_1\\lab3_1\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{95F43E17-1C62-4E69-8221-896A16131A45}|Lab3_1\\Lab3_1.csproj|solutionrelative:lab3_1\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F43E17-1C62-4E69-8221-896A16131A45}|Lab3_1\\Lab3_1.csproj|d:\\spring2025\\c#6\\bailab\\lab3_1\\lab3_1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95F43E17-1C62-4E69-8221-896A16131A45}|Lab3_1\\Lab3_1.csproj|solutionrelative:lab3_1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1764,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\SPRING2025\\C#6\\bailab\\Lab3_1\\Lab3_1\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Lab3_1\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\SPRING2025\\C#6\\bailab\\Lab3_1\\Lab3_1\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Lab3_1\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T05:28:00.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\SPRING2025\\C#6\\bailab\\Lab3_1\\Lab3_1\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Lab3_1\\Components\\Routes.razor",
+              "ToolTip": "D:\\SPRING2025\\C#6\\bailab\\Lab3_1\\Lab3_1\\Components\\Routes.razor",
+              "RelativeToolTip": "Lab3_1\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T05:27:14.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\SPRING2025\\C#6\\bailab\\Lab3_1\\Lab3_1\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Lab3_1\\Components\\App.razor",
+              "ToolTip": "D:\\SPRING2025\\C#6\\bailab\\Lab3_1\\Lab3_1\\Components\\App.razor",
+              "RelativeToolTip": "Lab3_1\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T05:26:38.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "custom.js",
+              "DocumentMoniker": "D:\\SPRING2025\\C#6\\bailab\\Lab3_1\\Lab3_1\\wwwroot\\js\\custom.js",
+              "RelativeDocumentMoniker": "Lab3_1\\wwwroot\\js\\custom.js",
+              "ToolTip": "D:\\SPRING2025\\C#6\\bailab\\Lab3_1\\Lab3_1\\wwwroot\\js\\custom.js",
+              "RelativeToolTip": "Lab3_1\\wwwroot\\js\\custom.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-24T05:24:45.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "D:\\SPRING2025\\C#6\\bailab\\Lab3_1\\Lab3_1\\Components\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Lab3_1\\Components\\Pages\\_Host.cshtml",
+              "ToolTip": "D:\\SPRING2025\\C#6\\bailab\\Lab3_1\\Lab3_1\\Components\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Lab3_1\\Components\\Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T05:24:04.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

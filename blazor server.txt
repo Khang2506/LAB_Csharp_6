@@ -1,0 +1,21 @@
+@page "/"
+@namespace Lab3.Pages
+@* @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers *@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Blazor App</title>
+    <link rel="stylesheet" href="css/site.css" />
+</head>
+<body>
+    <app>
+        <!-- Đây là nơi Blazor sẽ hiển thị -->
+        @(await Html.RenderComponentAsync<App>(RenderMode.ServerPrerendered))
+    </app>
+
+    <script src="_framework/blazor.server.js"></script>
+    <script src="~/js/custom.js"></script>
+</body>
+</html>

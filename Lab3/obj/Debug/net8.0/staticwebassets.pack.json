@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\SPRING2025\\C#6\\bailab\\Lab3\\Lab3\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\SPRING2025\\C#6\\bailab\\Lab3\\Lab3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Lab3.styles.css",
+      "PackagePath": "staticwebassets\\Lab3.styles.css"
+    },
+    {
+      "Id": "D:\\SPRING2025\\C#6\\bailab\\Lab3\\Lab3\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\SPRING2025\\C#6\\bailab\\Lab3\\Lab3\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\SPRING2025\\C#6\\bailab\\Lab3\\Lab3\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\SPRING2025\\C#6\\bailab\\Lab3\\Lab3\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\SPRING2025\\C#6\\bailab\\Lab3\\Lab3\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\SPRING2025\\C#6\\bailab\\Lab3\\Lab3\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\SPRING2025\\C#6\\bailab\\Lab3\\Lab3\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\SPRING2025\\C#6\\bailab\\Lab3\\Lab3\\wwwroot\\js\\custom2.js",
+      "PackagePath": "staticwebassets\\js\\custom2.js"
+    },
+    {
+      "Id": "D:\\SPRING2025\\C#6\\bailab\\Lab3\\Lab3\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Lab3.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Lab3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Lab3.props",
+      "PackagePath": "build\\Lab3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Lab3.props",
+      "PackagePath": "buildMultiTargeting\\Lab3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Lab3.props",
+      "PackagePath": "buildTransitive\\Lab3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

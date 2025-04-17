@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\SPRING2025\\C#6\\bailab\\Lab3_1\\Lab3_1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lab3_1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Lab3_1.tco4umtlyu.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\SPRING2025\\C#6\\bailab\\Lab3_1\\Lab3_1\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\SPRING2025\\C#6\\bailab\\Lab3_1\\Lab3_1\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\SPRING2025\\C#6\\bailab\\Lab3_1\\Lab3_1\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\SPRING2025\\C#6\\bailab\\Lab3_1\\Lab3_1\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\SPRING2025\\C#6\\bailab\\Lab3_1\\Lab3_1\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Lab3_1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Lab3_1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Lab3_1.props",
+      "PackagePath": "build\\Lab3_1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Lab3_1.props",
+      "PackagePath": "buildMultiTargeting\\Lab3_1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Lab3_1.props",
+      "PackagePath": "buildTransitive\\Lab3_1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

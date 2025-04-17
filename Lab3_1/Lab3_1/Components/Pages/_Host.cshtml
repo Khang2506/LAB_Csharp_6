@@ -1,0 +1,25 @@
+﻿@page "/"
+@namespace Lab3_1.Pages
+@using Lab3_1.Components
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Blazor App</title>
+    <base href="~/" />
+    <link rel="stylesheet" href="css/site.css" />
+</head>
+<body>
+    <app>
+        <!-- Đây là nơi Blazor sẽ render giao diện -->
+        @(await Html.RenderComponentAsync<App>(RenderMode.ServerPrerendered))
+    </app>
+
+    <!-- Nhúng custom.js sau blazor.server.js để đảm bảo Blazor load xong -->
+    <script src="/js/custom.js"></script>
+    <script src="_framework/blazor.server.js"></script>
+</body>
+</html>
